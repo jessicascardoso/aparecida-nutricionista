@@ -1,2 +1,2 @@
 # aparecida-nutricionista
- Atividade com javascript pelo projeto Cloud Girls
+ Atividade com javascript pelo curso Alura
